@@ -7,7 +7,7 @@
 ![Hands On](https://img.shields.io/badge/Practice-Labs-purple)
 
 ---
-
+  
 # 📌 Overview
 
 Networking is the **foundation of Cyber Security**. Every cyber attack, defense mechanism, monitoring system, and secure communication process operates through computer networks. To detect threats, prevent intrusions, and investigate incidents, strong networking knowledge is mandatory.
