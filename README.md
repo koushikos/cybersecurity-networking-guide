@@ -21,7 +21,6 @@ This guide provides complete, GitHub-ready notes on how networking is used in cy
 - SOC and Threat Intelligence teams rely on network data
 
 Without networking → cyber defense is incomplete.
-
 ---
 
 # 🧠 Networking Fundamentals Required
