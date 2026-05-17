@@ -9,11 +9,11 @@ Networking is the **foundation of Cyber Security**. Every cyber attack, defense 
 This guide provides complete, GitHub-ready notes on how networking is used in cyber security, including concepts, tools, attacks, defenses, labs, and a learning roadmap.
   
 ---   
-     
+
 # 🎯 Why Networking is Critical in Cyber Security 
 
 - All cyber attacks travel through networks
-- Threat detection depends on traffic analysis 
+- Threat detection depends on traffic analysis  
 - Security controls are placed at network layers
 - Logs and packets provide forensic evidence
 - Secure communication requires network encryption
