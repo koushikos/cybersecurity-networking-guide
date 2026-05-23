@@ -10,7 +10,7 @@ This guide provides complete, GitHub-ready notes on how networking is used in cy
   
 ---
  
-# 🎯 Why Networking is Critical in Cyber Security
+# 🎯 Why Networking is Critical in Cyber Security  
 
 - All cyber attacks travel through networks
 - Threat detection depends on traffic analysis  
